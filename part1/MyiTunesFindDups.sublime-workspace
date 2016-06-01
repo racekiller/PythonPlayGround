@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mat",
+				"matplotlib	module"
+			],
+			[
+				"pd",
+				"pd〔module〕"
+			],
+			[
+				"el",
+				"elif〔keyword〕"
+			],
+			[
+				"TagRe",
+				"TagReference"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/F/Dropbox/Private/Personal/Github/PythonPlayGround/Part1/ItunesPlaylist.xml",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/JSON Files/Corpus Christi/CITGO Corpus Christi - Process Data FGR_Machines_EquipSet Loading_Rev5.json",
+		"/C/Users/sqladmin/Documents/test.py",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"//mtell-s11/c$/Downloads/Mtell Training/Equipment Set/Compressor/Compressor 01-04 ES1 Rev3.json",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Program Files/Mtell Previse/SQL Scripts/MtellSuite-Step1.sql",
+		"/C/Users/sqladmin/Documents/python.py",
+		"/C/Users/sqladmin/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/completions.py",
+		"//ifc-s13/data02/Mtell Customer Data/CITGO/Sensor Data/Lake Charles/LCMC_442TagVals.csv",
+		"//ifc-s13/data02/Mtell Customer Data/CITGO/Sensor Data/Lake Charles/LCMC_320_2015TagVals.csv",
+		"//ifc-s13/data02/Mtell Customer Data/CITGO/Sensor Data/Lake Charles/LCMC_320_2014TagVals.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Lake Charles/LCMC_22Mar2016/LCMC_320_2014TagVals.csv",
+		"//ifc-s13/data02/Mtell Customer Data/CITGO/Sensor Data/Lake Charles/LCMC_320_2013TagVals.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Flare Gas Recovery Machine - FGR/Process Sensor Data/528C002/CCR Compressor 528C002 - PI Data (2013-2015) Rev JV.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Flare Gas Recovery Machine - FGR/Process Sensor Data/528C001/CCR Compressor 528C001 - PI Data (2013-2015) Rev JV.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Flare Gas Recovery Machine - FGR/Process Sensor Data/528_pending_data Rev JV.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/SQL Script to replace tags descipriton.sql",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Lemont/Lemont_844GB-401_data_Rev JV.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/CITGO All Refineries Tags and Descriptions Rev A.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Flare Gas Recovery Machine - FGR/Process Sensor Data/528C001/CCR Compressor 528C001 - PI Data (2013-2015) Rev JV.xlsx",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Lemont/Process Data/Lemont_844GB-401_tag_data_add2.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Lemont/Process Data/Lemont_844GB-401_tag_data_add1 rev JV.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Lemont/Lemont_844GB-401_data.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Lemont/Process Data/Lemont_844GB-401_tag_data_add1.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/JSON Files/Corpus Christi/CITGO CC - Hot Gas Expander_ES_Loading_Process Tags_Rev2.json",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Hot Gas Expander Process Tags/ccr prt data.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Hot Gas Expander Process Tags/Hot Gas Expander Process Tags Fixed.csv",
+		"//ifc-s13/Data02/Mtell Customer Data/ADI/Sensor Data/20160419 - Implanters Missing Sensor Data",
+		"/F/Program Files (x86)/Vim/vim74/vimrc_example.vim",
+		"/F/Program Files (x86)/Vim/_vimrc",
+		"//ifc-s13/Data02/Mtell Customer Data/ADI/Sensor Data/Implant Run Logs/raw_extract_ANTIMONY-8N12X1.csv",
+		"//ifc-s13/Data02/Mtell Customer Data/ADI/Sensor Data/Implant Run Logs/raw_extract_BORON-PR-8P52X3.csv",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Motor Current Rev 0 PROC.csv",
+		"/F/Dropbox/Mtell Customer Projects/ADI/JSON Files/Implanters/Approach 2/8CPLG_I_8N15A_63_64_66_68 IMP_ESet Rev0_beam test.json",
+		"/F/Dropbox/Mtell Customer Projects/CITGO/Sensor Data/Corpus Christi/Motor Current Rev 0.csv",
+		"//ifc-s13/Data02/Mtell Customer Data/ADI/Sensor Data/Processed WAT Files/wat_extract_0000  (wc 1-4-11)_SENSOR-DATA.csv"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"520",
+			"NASH HP-9 - Liquid Ring Compressor [Rev 1]",
+			"COMPR04",
+			"COMPR03",
+			"COMPR02",
+			"COMPR",
+			"Configure",
+			"DCS failed",
+			"Failed",
+			"Moving",
+			"I/O TimeOut",
+			"83132",
+			"Open",
+			"Close",
+			"Comm Fail",
+			"Bad",
+			"Open",
+			"Close",
+			"Scan Off",
+			"I/O TimeOut",
+			"Shutdown",
+			"Comm Fail",
+			"Error",
+			"Error ",
+			"Comm Fail",
+			"Failed",
+			"Moving",
+			"Scan Off",
+			"Shutdown",
+			"I/O Timeout",
+			"bad",
+			"Bad Input",
+			"Close",
+			"Open",
+			"I/O Timeout",
+			"Shutdown",
+			"Bad",
+			"No Data",
+			"Shutdown",
+			"I/O Timeout",
+			"No Data",
+			"Shutdown",
+			"I/O Timeout",
+			"No Data",
+			"bad",
+			"bad input",
+			"[MtellSuite_CITGO].",
+			"bad input",
+			"bad",
+			"Bad Input",
+			"Shutdown",
+			"Bad",
+			"No Data",
+			" in eq",
+			"tag ",
+			"hchhma",
+			"Bad",
+			"No Data",
+			"Main G"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"528",
+			"NASH HP-9 - Liquid Ring Compressor [Rev 2]",
+			"Compr04",
+			"Compr03",
+			"Compr02",
+			"Compr",
+			"null",
+			"1",
+			"null",
+			"1",
+			"0",
+			"null",
+			"",
+			"null",
+			", in eq",
+			"tag ,",
+			"null"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.525520833333,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MyiTunesFindDups.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
